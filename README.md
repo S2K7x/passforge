@@ -1,4 +1,4 @@
-# PassForge v3.0
+# PassForge
 
 **A Personalized Password List Generator**
 
@@ -113,17 +113,3 @@ python passforge.py [info options] [transformation options] [output options]
 * **Performance:** Generating lists with many base keywords and all transformations enabled can be computationally intensive and produce very large lists.
 * **Context:** Does not consider password policies (complexity requirements, length limits) of the target system.
 
-## License
-
-(Specify your chosen license here, e.g., MIT License)
-
-```
-[Link to LICENSE file or full license text]
-```
-
-## Contributing
-
-(Optional: Add guidelines if you want others to contribute)
-
-```
-Contributions are welcome! Please read CONTRIBUTING.md for details.
